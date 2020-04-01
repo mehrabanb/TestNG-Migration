@@ -23,6 +23,6 @@ public class TestListener extends ExitCodeListener {
 	
 	@Override
 	public void onConfigurationFailure(ITestResult arg0) {
-		System.out.println("Error 123");
+		System.out.println("Error");
 	}
 }
