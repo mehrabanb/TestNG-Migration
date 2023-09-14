@@ -11,6 +11,7 @@
 <!--        </groups>-->
         <classes>
             <class name="org.example.SimpleTest" />
+            <class name="com.moe.application.camoe.tests.Test1" />
         </classes>
     </test>
 </suite>
